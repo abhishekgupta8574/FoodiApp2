@@ -9,7 +9,7 @@
 
 # 💖 Foodi.com 
 
-> ## Introducing Food Bazaar, a food ordering app powered by React.js that effortlessly links users with their favorite dishes. What sets it apart? Integration with the live Swiggy API and Swiggy Instamart API for groceries. With Redux handling state, React Router DOM ensuring easy navigation, and Tailwind CSS crafting a visually appealing interface, alongside Lazy Loading. Also, it utilizes Parcel for efficient bundling. Explore the features below.
+> ## Let's Foodi with Food Bazaar, a food ordering app powered by React.js that effortlessly links users with their favorite dishes. What sets it apart? Integration with the live Swiggy API and Swiggy Instamart API for groceries. With Redux handling state, React Router DOM ensuring easy navigation, and Tailwind CSS crafting a visually appealing interface, alongside Lazy Loading. Also, it utilizes Parcel for efficient bundling. Explore the features below.
 
 
 
@@ -22,7 +22,7 @@
 
 > ### 🚀 Lazy Loading & Chunking: Food Bazaar implements lazy loading and chunking for optimization, reducing app loading time significantly.<br></br>
 
-> ### ⚡ Custom Hook: Food Bazaar utilizes custom hooks, enhancing code reusability and maintainability, allowing for a more efficient development process and a streamlined architecture.<br></br>
+> ### ⚡ Custom Hook: Foodi.com utilizes custom hooks, enhancing code reusability and maintainability, allowing for a more efficient development process and a streamlined architecture.<br></br>
 
 > ### 🔐 State Management with Redux: Food Bazaar ensures a scalable and organized application state with Redux, streamlining data flow and providing a centralized management system for a seamless user experience.<br></br>
 
