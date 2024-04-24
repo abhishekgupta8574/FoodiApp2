@@ -1,7 +1,8 @@
 
 import { CARD_IMG_URL } from "../Utils/constants";
-const RestaurantHeader = ({ restInfo }) => {
+const RestaurantHeader = ({ restInfoData }) => {
   //Destructing
+  console.log("resinfodata",restInfoData);
   const {
     name,
     cuisines,
@@ -10,8 +11,8 @@ const RestaurantHeader = ({ restInfo }) => {
     feeDetails,
     areaName,
     totalRatingsString,
-  } = restInfo;
-  const { slaString, lastMileTravelString } = restInfo.sla;
+  } = restInfoData;
+  const { slaString, lastMileTravelString } = restInfoData.sla;
   return (
     <div>
       <div className="flex justify-between items-center flex-row  border-b-2 border-dotted lg:py-4 md:py-4 py-2">

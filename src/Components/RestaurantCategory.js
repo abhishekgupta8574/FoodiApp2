@@ -1,7 +1,10 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ItemCategory from "./ItemCategory";
 const RestaurantCategory = ({ data }) => {
   const [showlist, setshowlist] = useState(true);
+  
+ 
+
 
   function handleClick() {
     setshowlist(!showlist); // toggle functionality - after clicking on handle setshowlist opp of showlist

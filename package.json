@@ -35,9 +35,7 @@
     "react-redux": "^9.1.0",
     "react-router-dom": "^6.21.3"
   },
-  "browserslist": [
-    "last 2 versions"
-  ],
+  
   "bugs": {
     "url": "https://github.com/abhishekgupta8574/FoodiApp2/issues"
   }
