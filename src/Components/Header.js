@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import logo from "../Images/Logo.png";
+
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import grocerylogo from "../Images/Grocery.png";
