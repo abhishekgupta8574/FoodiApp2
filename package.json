@@ -19,14 +19,13 @@
   "author": "Abhishek Gupta",
   "license": "ISC",
   "devDependencies": {
-   
+    "@swc/helpers": "^0.5.10",
     "parcel": "^2.11.0",
     "postcss": "^8.4.33",
     "process": "^0.11.10",
     "tailwindcss": "^3.4.1"
   },
   "dependencies": {
-    "@swc/helpers": "^0.5.10",
     "@reduxjs/toolkit": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -40,5 +39,5 @@
     "url": "https://github.com/abhishekgupta8574/FoodiApp2/issues"
   },
   "homepage": "https://github.com/abhishekgupta8574/FoodiApp2#readme",
-  "main": "tailwind.config.js"
+  "main": "index.html" 
 }
