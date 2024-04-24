@@ -4,7 +4,7 @@
   "description": "Foodi.com is the Food & Grocery Delivery Web app made by using React Js, TailwindCSS and Redux Tool Kit ",
   "scripts": {
     "start": "parcel \"index.html\"",
-    "build": "parcel build \"index.html\"",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
